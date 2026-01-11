@@ -11,6 +11,7 @@ const GalleryHeader = () => {
             width = {300}
             direction = "90"
             className="left-20 -translate-y-16"
+            customSpeed={0.9}
         />
     
         <div className='h-[1px] w-full bg-crimson'></div>

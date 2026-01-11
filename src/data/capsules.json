@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "images": ["medieval1.png"],
+    "title": "Medieval Castle",
+    "date": "June 2025",
+    "description": "This is a victorian house built on a server with a modern city. This medieval house uses FlowsHD texture pack, which provides more muted colored blocks to experiment with. \n\nContains the usual style of extreme detail and medieval elements- just this time contained in a residential house."
+  },
+  {
+    "id": 2,
+    "images": ["bananapalace1.png", "bananapalace2.png"],
+    "title": "Banana Palace",
+    "date": "January 2018",
+    "description": "This castle was constructed on a 2-week minecraft phase. This was my first attempt at a tower, and A frames, inspired by gothic churches and medieval architecture elements. \n\n This was constructed with a vertical approach- meaning I would complete one wall, tower, or section, before even beginning the rest of the castle. Contrasts with traditional building technique of laying out entire foundation before adding details. \n\n Biggest challenge was scale and details."
+  }
+]
