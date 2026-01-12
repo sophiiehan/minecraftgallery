@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/minecraftgallery/static/css/main.c393e5a0.css",
-    "main.js": "/minecraftgallery/static/js/main.6a6df4fe.js",
+    "main.css": "/minecraftgallery/static/css/main.36a40370.css",
+    "main.js": "/minecraftgallery/static/js/main.a434623b.js",
     "static/media/medieval1.png": "/minecraftgallery/static/media/medieval1.65c69582c080b07e65cd.png",
     "static/media/bananapalace1.png": "/minecraftgallery/static/media/bananapalace1.98452da6fce79e50a040.png",
     "static/media/bananapalace2.png": "/minecraftgallery/static/media/bananapalace2.fe05769a1da15e3fd383.png",
     "static/media/Monea_Alegante.otf": "/minecraftgallery/static/media/Monea_Alegante.0cf02cd6008aa0b3c89e.otf",
     "index.html": "/minecraftgallery/index.html",
-    "main.c393e5a0.css.map": "/minecraftgallery/static/css/main.c393e5a0.css.map",
-    "main.6a6df4fe.js.map": "/minecraftgallery/static/js/main.6a6df4fe.js.map"
+    "main.36a40370.css.map": "/minecraftgallery/static/css/main.36a40370.css.map",
+    "main.a434623b.js.map": "/minecraftgallery/static/js/main.a434623b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c393e5a0.css",
-    "static/js/main.6a6df4fe.js"
+    "static/css/main.36a40370.css",
+    "static/js/main.a434623b.js"
   ]
 }
